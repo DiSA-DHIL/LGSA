@@ -27,8 +27,35 @@
   </teiHeader>
   <text>
       <body>
-         <listPerson>
-            <person></person>
+         <listPerson type="primary">
+            <person xml:id="LGS1">
+               <persName>
+                  <reg>Laura Goodman Salverson</reg>
+                  <forename>Laura</forename>
+                  <surname>Goodman Salverson</surname>
+               </persName>
+               <birth when="1890-12-09"/>
+               <death when="1970-07-13"/>
+            </person>
+            <person xml:id="JOM1">
+               <persName>
+                  <reg>J. O'Malley</reg>
+                  <forename>J.</forename>
+                  <surname>O'Malley</surname>
+               </persName>
+            </person>
+         </listPerson>
+         <listPerson type="contributor">
+            <person xml:id="SL1">
+               <persName>
+                  <reg>Sydney Lines</reg>
+                  <forename>Sydney</forename>
+                  <surname>Lines</surname>
+               </persName>
+               <note>
+                  <p>Sydney Lines is a PhD Candidate in English Language and Literatures at the University of British Columbia.</p>
+               </note>
+            </person>
          </listPerson>
       </body>
   </text>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Fear1">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fear</title>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>Digital Scholarship in the Arts</distributor>
+            <distributor>Digital Humanities Innovation Lab</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <p>
+               <!--Information about the source file. If it's
+                  a primary source, use a <bibl> or <msDesc>;
+                  if born digital, use <p>Born Digital</p>-->
+            </p>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc>
+        <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+     </encodingDesc>
+     <profileDesc>
+        <textClass>
+           <catRef scheme="atn:DocType" target="atn:PrimarySource"/>
+        </textClass>
+     </profileDesc>
+  </teiHeader>
+  <text>
+     <pb n="22"/>
+      <body>
+         <head>Fear</head>
+         <opener>
+            <byline>By <name ref="pers:LGS1">L.G. Salverson</name></byline>
+            <byline>Illustrated by <name ref="pers:JOM1">J. O'Malley</name></byline>
+         </opener>
+         <p>All day, while she cleaned the captain's house, she had heard the cook delineating the crimes of drunken Metis. Now on her homeward way, she shivered to think of it. Her little shack stood alone on the bank of Red River, the last house on Point Douglas.</p>
+         <p>Lonely, poor, ramshackle, the sight of it none-the-less cheered her. It was coming on to snow. The chill rushed at her as she opened the door. Thank goodness she walways filled the stove ready to light before leaving in the morning. And there, as usual, stood her coffee pot ready to set on the fire.</p>
+         <p>Heat and light restored to the little house, Char Ellen felt better about the gossip of the cook. Nora was such a blatherskite anyway! Humming, she set out bread and treacle, a bit of cottage cheese and a piece of boiled whitefish. The she stepped to the door and called her cat.</p>
+         <p>Standing there, her blood suddenly swooped back to her heart in terror-frozen streams. God help her! There was no mistake about it, stalking toward her came three gigantic creatures, Indians or Metis, to judge by their swarthy features. And behind them trailed a yellow hound, shaggy, wicked looking as his masters.</p>
+         <p>Char Ellen couldn't move; before her senses even prompted the bolting of her doord they were at her threshold. The youngest, and lighter of skin, but, if anything, dirtier than the others, said:</p> 
+         <p>
+           <q>Give us grub, old lady, we're beat up and hungry.</q>
+         </p>
+         <p>She wanted to shout them away; to say she had nothing fit to eat, but something in their dark faces pleaded against the fear she had of them. They did look awfully hungry.</p>
+         <p><q>Come in,</q> she managed, <q>come in, and bring the dog. It's coming on to snow.</q></p>
+         <p>Feverishly, she went about enlarging her supper. Frying potatoes, cutting more bread, brewing tea, for she was persuaded all red men revelled in it; and sacrificed the whole of her fish. In addition, she opened a bottle of raspberry preserve. The whoel time their glittering black eyes stared stonily at wall and ceiling. Yet she knew that nothing, no least movement of hers, escaped them. At table it was little better. Except to grunt when offered more food they said nothing. When they were finished she washed her hands of them––she had done her duty; surely she would now be rid of them.</p>
+         <p>But the elements were against her. It had begun to blow with driving flurries of heavy wet snow. She had not the heart to put a dog out into such weather . . . besides, if she suggested it, would they not make an end of her instantly.</p>
+         <p>The young man may have sensed her thought. For an instant, as light crosses brown crags, his smile flashed out at her.</p>
+         <p><q>We won't rob you, old mother. Let us lie by the stove; the boards are as good bed as we're accustomed to.</q></p>
+         <p>She would not hear of that. From a horsehair trunk in the corner she drew out quilted comforters and two pillows. It was all she had. The burnt-wood elder amongst them grunted hoarsely. It constituted praise and gratitude, but Char Ellen trembled.</p>
+         <p>But fear is less potent than fatigue to the aged. Her formidable guests, rolled in their quilts on the floor, she stripped the cotton coverlet with its ruffled valance off her bed; sat down on the edge and took off her shoes. Her knotted fingers trembled at the business of unhooking her dress. Pshaw, you fool, she rebuked herslef, what's an old lady, dressed or undressed, but a sorry bag of bones! Sure, you'll die no harder without your skirts, Char Ellen.</p>
+         <p>So now, at last, in cotton bathrobe and bed socks, she tiptoed to the stove, filled it generously, drew the dampers, took down the wall lamp, and setting it on her box bed table, climbed into bed and blew out the light.</p>
+         <p>Instantly she was conscious of a changed atmosphere. Something more than the darkness leaped into terrifying prominence. Under the cold bedclothes her angular old body trembled with an inexplicable nervous chill that spread to her very heart. Yet there was nothing to hear; nothing to see, except the faint red glow of the mica eyes of the stove . . . And, oh horror! the glowing wolfish eyes of the great hound awakened from sleep!</p>
+         <p>Char Ellen crossed herself. Sure there was death in those burning twin moons. And then the thought froze in her for, with a fearful growl, the big dog sprang straight towards the bed, straight for her throat, she imagined, and by some miracle hurtled under the bed instead.</p>
+         <p>Blood-curdling howls, atrocious blasphemies, and a whirlwind of charging human demons followed; charging at what? shuddered poor Char Ellen, clutching her bed clothes and waiting dreadful death.</p>
+         <p>Dreadful the tossing frenzy under rickety bed, more dradful still what she saw when the yonug Metis lit the lamp. On the floor, pinned down by the two Indians, lay a huge negro, his ebony face dulled to liquid rust with blood, his mackinaw shredded at one shooulder. Held at bay, the yellow hound signified his resentment by rumbles like mountain thunder deep down in his great chest.</p>
+         <p>Char Ellen must have fainted at the sight. Conscious again, a gentl stillness lay ipn the room. Her lamp was still lit, the three bundled human forms stretched by the stove as before, and the dog dozed in a patch of firelight. Char Ellen prayed as simple folk will. The she slept.</p>
+         <p>In the morning she awaked to a white world. Snow, like foating feathers sheened the muddy waters of Red River. Snow, like silver dust, lined the sad lanes leading to town. Hurriedly she dressed; saw with thankfulness and a qualm of conscience that the was already lighted. Stepping about briskly she prepared the breakfast of bannock and porridge. As before her visitors stared into space; at table said nothing. Fear began to stir in her again, but this time it was the thought of their departure that terrified her. Afraid to speak, she plied them with her pitiful luxuries, a few doughnuts, and a pot of special jelly. She fed the dog, patting his matted coat with unsteady hands.</p>
+         <p>As before it was the young man who spoke. <q>You shall have a bearskin for the floor when we pass in the spring . . . a black one, eh, old woman?</q></p>
+         <p>Again Char Ellen stood in the door. In the white morning light the brown faces of the travellers glowed in a friendly fashion.</p>
+         <p><q>Oh, but––</q> she quavered, <q>I want to ask––I want to thank you . . . . Oh, I've got to know––about last night.</q></p>
+         <p>The young metis grinned, spread his hands in a contemptuous gesture toward the river. Then for the first time the burnt-wood elder spoke: <q>Heap much gone hell,</q> said he, and stalked off into the white landscape.</p>
+      </body>
+  </text>
+</TEI>
