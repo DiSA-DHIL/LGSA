@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="Rebecca1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rebecca</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Digital Scholarship in the Arts</distributor>
+                <distributor>Digital Humanities Innovation Lab</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!--Information about the source file. If it's
+                  a primary source, use a <bibl> or <msDesc>;
+                  if born digital, use <p>Born Digital</p>-->
+                </p>
+            </sourceDesc> 
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="atn:DocType" target="atn:PrimarySource"/>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+<text>
+    <body>
+        <pb n="2"/>
+        <head>Rebecca</head>
+        <opener>
+            <byline>By <name ref="pers:LGS1">L.G. Salverson</name></byline>
+        </opener>
+<div>
+<p>Rebecca was a voice in the land. No one dreamt of questioning her advice. However fantastic her suggestions every one knew that in her own case at least Rebecca had demonstrated the power of mind over matter. To begin with she was a very little woman, pale and thin, with watery blue eyes which told of endless hours at fine needlework. Her voice was mild and rather listless until a conviction seized her; then it grew shrill and insistent like the buzz of a black-belted wasp. Despite these handicaps Rebecca had succeeded in putting big Ole Hanson in his proper place.</p>
+<p>Big Ole was married to Rebecca's young niece, Lena. Everyone had prophesied grief when she took up with that wild lumberjack. He was not the kind of man any self-respecting girl should marry. He was a gay devil, too fond of cards and dancing and the little brown jug.</p>
+<p>But for the first time in a meek and colorless life young Lena refused to be guided by reason. Ole fascinated her. He was different from the plodding farmer boys she knew so well. For one thing she never saw him except on gala days when he blew down from somewhere like a roaring breeze that set the dance going faster and made the familiar polka seem like some heaven-inspired swirl of happiness. Nor was Lena the only girl in Garno who watched for Ole's tall, gliding figure and flashing smile and considered him the embodiment of perfect romance.</p>
+<p>Lena's widowed mother thought otherwise. She informed her daughter, that if she persisted in choosing such a ne'er-do-well she need expect no sympathy on waking from her dream. Rebecca, at that time not confirmed in her wisdom, was almost as pessimistic though less severe. Nevertheless she went to work on Lena's wedding dress. Lena's mother refused to let the couple be married in her house, so Rebecca went with them to the schoolhouse where the minister pronounced the customary blessing and with a sigh hoped for the best.</p>
+<p>After that Lena went to live in a shack back in the bush that Ole was clearing of spruce for a lumber company. For weeks she lived on the thrilling realization that Ole had actually preferred her plain little self to Effie, her good-looking chum. Indeed, Ole was cheerfulness personified. Everything she did pleased him; her cooking, her shy overtures; even the way she waved at him with her little white apron from the doorstep. He set her heart singing by telling her so. In fact Ole was much more perfect here in the bush than she had dared to expect. When his work was done he sat on the doorstep and played the mouth organ until it grew dark and Lena's small yellow head began to nod against his big broad shoulder.</p>
+</div>
+<div>
+        <head>No Surprise to the Village</head>
+<p>Such a perfect little world! But alas, winter came. Some other self woke in Ole. He hated the confines of the cabin. He just had to get away. It was then that the little brown jug began to loom up like an ogre. Perhaps Ole might not have taken to drinking so violently if he could have danced away his surplus energy and boredom as before. But Lena wasn't able to go with him that winter so a queer streak of loyalty sent him to the village bar instead.</p>
+<p>Of course it was no surprise to the villagers. They had known he was a bad lot. Lena's mother refrained from crowing but her every gift, whether butter, fowl or cheese somehow conveyed an unwelcome pity. Poor Lena began to droop; to spend her days in weeping and her nights in anxious fear. Her tears and her timidity naturally had a distressing effect. Ole began to stay away more than ever, whole nights and days together. It was then that Rebecca packed her sewing- basket and a few personal belongings and set out for the bush. She found a very sick, disheartened and unhappy young wife.</p>
+<p>That, I suppose, was the real beginning of Rebecca's dominion and prestige. The moment she stepped over the threshold she said: "My goodness, child! What in the world have you been doing to yourself? You look like a hag. Now get right out of that greasy dress, wash your hair and frizz up a bit; that'll put new life in you."</p>
+<p>Lena whimpered: "What for? Who cares? O, I wish I was dead."</p>
+<p>"Shucks! All fools sing that song!" snapped Rebecca. "Now do what I said, for let me tell you, my girl, I shan't stay on if you're going to adopt the ways of a dirty squatter."</p>
+<p>After that, Rebecca cleaned the house, cooked a good dinner, and pretended not to notice that Lena kept running to the window and was forever starting up at the least sound. However, Ole didn't appear that night, but next day towards sunset Rebecca caught sight of him treading an unsteady measure homeward.</p>
+<p>Rebecca hurried into the house with the wood she had gone after. As she expected, Lena had also seen her husband from the window; she was crying pitifully. Rebecca's sympathy took a strange turn; she caught her niece by the shoulders and shook her. "Stop, you young idiot!" she cried, "don't you know men hate tears of their own making? You can weep your fill when he's gone back to the village. Just now you're going to sit down at this table and play cards with me."</p>
+<p>Ole was badly fuddled but not to such a degree that he failed to register amazement at the cheerful scene confronting him as he entered. Lena even managed to smile, Rebecca nodded indifferently. "So you've decided to come home for a feed, have you?" was her cynical contribution.</p>
+</div>
+<div>
+        <head>An Old-Fashioned Licking</head>
+<p>Ole slumped into a chair. "Well, why not? Yes, why not! Why the devil shouldn't I come. Ain't this my home?"</p>
+<p>"Well, to tell the truth, I thought you'd taken quarters in town," Rebecca retorted. "Leastwise, that's what Lena's ma was hoping."</p>
+<p>Ole flared up magnificently but his storming made no difference to Rebecca. She kept right on dealing the cards, scolding her niece, in an undertone to keep up her courage and bursting into little peals of merry laughter. Ole's reaction was just what she desired. He rushed right back to the village. After that Rebecca read the riot act to Lena to prevent her from going hysterical. Also, as she had expected, some while after midnight Ole came back very drunk indeed. This time Rebecca's reception was conciliatory, even humble. She not only helped the lordly Ole off with his wraps but she pulled off his boots and brewed him a fresh cup of tea into which she slipped a good strong dose of paregoric.</p>
+<p>In a few moments Ole was snoring - not a lovely sight. Rebecca shuddered to look at him. But she was now well launched on her first adventure. With Lena's feeble help she got the big man into bed where, to the young wife's horror, she calmly proceeded to strip him. This done she folded the strong cotton sheet round the sleeping giant smooth and tight as a mummy's shroud. Then she set to work to sew up the sheet with stout buttonhole cotton. When she was through Ole looked like a huge bolster topped by a big brown head.</p>
+<p>"Now, then," Rebecca turned to her tearful niece, "stop sniffling and lie down on that sofa. I'll do my dozing in the rocking chair."</p>
+<p>Early next morning they were awakened by an angry bellow from the bed. Rebecca signalled her niece to keep still. Then she approached the trussed-up Ole.</p>
+<p>"What the devil's the meaning of this?" he blared at her trying to sit up and finding it impossible.</p>
+<p>"Nothing much," she told him calmly. "I'm just aiming to give you a good hiding my boy, the kind of licking you didn't get when you were developing these fool habits of yours."</p>
+<p>Which is exactly what she did. Ignoring Lena's frightened wails, Rebecca belabored the captive with vim and astonishing force administering sage advice with each stinging lash. When she was out of breath and on the point of exhaustion, she thrust her perspiring face down to within an inch of the squirming bundle on the bed and fired this alarming pronouncement: "Now I'm leaving you to think things over, Ole. I'm taking Lena home where she'll get the care she needs. After a bit I'll send Hans back to cut you loose. And while you're doing your thinking, young man, you might pay especial attention to this: 'If, after the baby is born, you are man enough to want the little one and Lena back again - which I much doubt - I aim to return with them. And you can bank on it, Ole Hanson, that every time you come home full of liquor you'll wake up in a bolster!"</p>
+<p>But of course he never did. Now they live in the biggest house in Garno. Ole runs a hardware store and contracts for timber on his own. Lena gives no hint of her former timidity. She's plump and rosy and in all the world finds nothing quite so marvellous as her three healthy children, unless, perhaps, it's her handsome husband. As for Rebecca, she no longer does needlework for a living. She has a reputation to maintain. Her sagacity is seldom questioned - certainly not by Ole.</p>
+</div>
+    </body>
+</text>
+</TEI>
