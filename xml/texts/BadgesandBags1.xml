@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BadgesandBags1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Fear</title>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Digital Scholarship in the Arts</distributor>
+                <distributor>Digital Humanities Innovation Lab</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!--Information about the source file. If it's
+                  a primary source, use a <bibl> or <msDesc>;
+                  if born digital, use <p>Born Digital</p>-->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="atn:DocType" target="atn:PrimarySource"/>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <pb n="1"/>
+        <body>
+            <head>Badges and Bags</head>
+            <opener>
+                <byline>By <name ref="pers:LGS1">L.G. Salverson</name></byline>
+            </opener>
+            <p>Seline saw him the first time one bitterly cold day as he came striding down the wind, his coat-tails barging behind him and his long beard blowing about his head in a dark aura.</p>
+            <p>Darkness, desolation and wind! muttered Seline, gazing out upon the wintry landscape and pitying the shaggy dog she saw sniffling about her yard. A day to take the heart out of joy itself! said she, and at the same moment discovered the peddler striding along briskly, carrying his tall gaunt frame with native ease and arrogance.</p>
+            <p>Doubtless the monotony of existence in the village, divorced from progress, where she was still a stranger after teaching music eight months, accounts for Seline's interest in the peddler. Interest that amounted to excitement when several days later, in a flurry of soft snow, she came to her door.</p>
+            <p>Seline took pride in her ability to ferret out the romantic and unusual. She was always at it, though not always with equal success. This time her excitement––which could hardly have been greater on Victory Day––was nicely rewarded.</p>
+            <p>In the first place the peddler enteres her kitchen like a king. With the same royal condescension he accepted a chair. It was not until he was seated, having with deft yet awkward movements disposed of his pack.</p>
+            <p>But it was clear nothing had pleased him less than pity. Besides, his eyes were smiling at her and something back of the smile made her forget the differen in their station and her customary shyness before men.</p>
+            <p>Speaking as to an old friend she said: <q>You have come a long way and the going is difficult.</q></p>
+            <p><q>Madame</q>, he replied, smiling in a way to light the room, <q>it is generally difficult doing one's duty––which is likely the only reason we do it at all.</q></p>
+            <p>Seline was not given to indiscriminate overture, but drawn to this singular man who, occupied so humbly, could yet maintain his self-esteem, she said: <q>Lay aside your coat. It must be damp though and while the kettlebouls tell me about it.</q></p>
+            <p>For an instant the blue of his eyes deepened, chilled to the forbidding calm of lake water before storm, and he looked at Seline sharply. Then he laughed––a pleasant laugh, thought Seline, compounded of relief, gratitude and spontaneous gaiety.</p>
+            <p><q>There is so little to tell</q>, he began, easing his stooping shoulder and eyeing the pack humorously. <q>I was the younger son of an officer's family and there were five daughters . . . Some sacrifice had to be made. My elder brother must, as a matter of course, follow in father's footsteps. That meant a military academy. And, quite as unalterably, the girls must find suitable husbands.</q></p>
+            <p><q>Fortuunately for me i had no taste for such fine duties. So I ran away to sea. I chose well. Never was superior officer less human nor sea less navigable. I thought I should die ere we rounded the Horn; instead I discovered the singular fascination in besting this beastly duty I had thought to escape.</q></p>
+            <p><q>In course of time it was said I made a capable first mate––perhaps! The years rolled on. I met a girl one lonely night in an old Hebridean village where we had put in for minor repairs after a storm.</q></p>
+            <p><q>She hadn't a soul in the world; in fact it was the sound of her weeping down by the sea, crouched like a frightened rabbit amid rocks, that made me notice her––a little thing, with brave brown eyes . . . </q></p>
+            <p><q>And so we were married.</q></p>
+            <p><q>But you want to hear about this</q>, he indicated the pack. <q>Well, that, madame, is not so much a bag as badge! And each morning when my foolish little wife mounts a chair to fasten the strap around my shoulder I had a feeling of being presented with regimental colors––but I digress.</q></p>
+            <p><q>Less than a year after marrying Flora we ran into an awful gale in the Baltic. It was said my seamanship saved the vessel––at least it saved the captain. Incidentally it lost me my arm . . . </q></p>
+            <p>Seline paused in her tea-making, about to profeer sympathy; thought better of it and brought out cake instead.</p>
+            <p>The peddler smiled. <q>Oh, yes, everyone was kind. Somewhere in Flora's button-box lies a medal. Even the captain forgave me for saving him! And certain influential souls thought of making up a purse.</q></p>
+            <p><q>So Flora and I decided to some to Canada. There was just enough money for third-class passage and a scrap of land somewhere. Well, you should see what Flora has done with her pill-box house and bit of scrub land in these fifteen years! But now it's time to reveal the contents of the pack––bursting, you see, with stockings and mitts enough to outfit the village. And every pair the work of Flora's hands!</q></p>
+            <p><q>My goodness!</q> Selines deplored triteness but had nothing filling to say. <q>What courage, what loyalty––oh, surely, there is some reward.</q></p>
+            <p><q>There is</q>, said the peddler, stroking a pair of red socks with fingers that, once long and shapely, were now knotted and scarred from struggling with Flora's bit of scrub land. <q>There is. While Flora knots she listens to our sn practicing oratory. Last year he took the governor-general's medal. Now Flora dreams of a scholarship and of course knits the harder, for a boy must have decent clothing in college.</q></p>
+            <p><q>Yes, madame, Flora seems to think young Malcolm will justify all these socks. To say nothing of reflecting honor on the Hebrides and Canada!</q></p>
+        </body>
+        
+    </text>
+</TEI>
