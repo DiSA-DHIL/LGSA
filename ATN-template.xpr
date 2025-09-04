@@ -40,5 +40,6 @@
     </meta>
     <projectTree name="ATN-template.xpr">
         <folder path="."/>
+        <folder path="xml/texts/"/>
     </projectTree>
 </project>
