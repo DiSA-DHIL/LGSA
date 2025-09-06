@@ -37,6 +37,15 @@
                <birth when="1890-12-09"/>
                <death when="1970-07-13"/>
             </person>
+            <person xml:id="WE1">
+               <persName>
+                  <reg>Winnifred Eaton</reg>
+                  <forename>Winnifred</forename>
+                  <surname>Eaton</surname>
+               </persName>
+               <birth when="1875-08-21"/>
+               <death when="1954-04-08"/>
+            </person>
             <person xml:id="JOM1">
                <persName>
                   <reg>J. O'Malley</reg>
