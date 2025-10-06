@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/DiSA-DHIL/ATN-Schema/refs/heads/main/dist/ATN.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="BlissCarmanPoetProphet1">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Bliss Carman, Poet and Prophet</title>
+                <respStmt>
+                    <resp>Transcriber</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Encoder</resp>
+                    <name ref="pers:SL1">Sydney Lines</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <distributor>Digital Scholarship in the Arts</distributor>
+                <distributor>Digital Humanities Innovation Lab</distributor>
+            </publicationStmt>
+            <sourceDesc>
+                <p>
+                    <!--Information about the source file. If it's
+                  a primary source, use a <bibl> or <msDesc>;
+                  if born digital, use <p>Born Digital</p>-->
+                </p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <schemaRef url="https://github.com/DiSA-DHIL/ATN-Schema/blob/main/sch/ATN.odd"/>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <catRef scheme="atn:DocType" target="atn:PrimarySource"/>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <head>Bliss Carman, Poet and Prophet</head>
+            <opener>
+                <byline>
+                    By
+                    (
+                    <name key="Laura Goodman Salveson" ref="pers:LGS1">Laura Goodman Salverson</name>
+                    )
+                </byline>
+            </opener>
+            <div>
+                    <p>It is a singularly pleasant task to pay tribute to Bliss Carman's work. He measures up so nobly to the ancient type of poet, as one who is prophet as well as bard.</p>
+                    <p>There was a time when the poet, were he so to be titled, had to have the seeing eye and the feeling heart. That is, he had to see good in everything or at least the future promise of good in everything. Mr. Carman does just this in his beautiful work. He follows no new fad in poetry but belongs rather to that time-honored and only lasting school of verse, the school of truth and idealism.</p> 
+                <p>It is singularly sweet to find a modern writer still untouched by the childish mania for realism––the so-called courage in writing. Mr. Carman is so fashioned by nature that he understands how simple an accomplishment it is to see the ugly side of life and the ills attending our social follies. And he knows how much more a man's task it is to recognize the beauty of life struggling upward in spite of odds.</p>
+                    <p>And so he tells us of this hidden power of loveliness and it seems to me that it is of ten-fold value to the disheartened; to learn that there is reason and usefulness in whatsoever disaster––of inimitably greater value than to listen to the sorry croakings of the disoriented and disillusioned.</p>
+                    <p>Mr. Carman is accused of being too visionary, of being solely a nature poet and of being blind to the troubles of the world abouth him, all of which is unjust. There is a world of thought and tenderness in every poem, and though he worships so truly, he sings of many very human things. For instance, what child cannot delight in his "Ships of Yule:"
+                    </p><lg>
+                        <l>When I was just a little boy</l>
+                        <l>Before I went to school,</l>
+                        <l>I had a fleet of forty sail</l>
+                        <l>I called the Ships of Yule.</l>
+                    </lg>
+                <lg>
+                    <l>They used to go on trading trips</l>
+                    <l>Around the world for me,</l>
+                    <l>For though I had to stay on shore</l>
+                    <l>My hearts was on the sea.</l>
+                </lg>
+                <p>And what child would not follow these ships eagerly into their various ports until they come home again to repose in the harbor of the poet's heart?</p>
+                <p>And when has a finer tribute been paid to womanhood than in Mr. Carman's poem, "The Givers of Life." To quote only the third verse puts every woman into his debt and shames our many vanities: 
+                    <lg>
+                        <l>Who strengthened our souls with courage, and taught us the way of Earth?</l>
+                        <l>Who gave us our patterns of beauty, our standards of flawless worth?</l>
+                        <l>Mothers, unmilitant, lovely, moulding our manhood then,</l>
+                        <l>Walked in their woman's glory, swaying the might of men.</l>
+                    </lg>
+                </p>
+                <p>But after all it is in his nature verse that I read the poet's own soul and it is a gentle and a beautiful one, of that lowly order which <q>shall inherit the Earth</q>. Bliss Carman has learned that only to the patient and the listening heart does nature yield her greatest treasure. There is a kind of mystical music in his "Earth's Voices," a litany of the soil. But perhaps of all Mr. Carman's shorter poems there is none which shows his understanding of the Divine all about us more clearly than that gracious lyric, "The Old Gray Wall:"</p>
+                <p> 
+                    <lg>
+                    <l>Time out of mind I have stood</l>
+                    <l>Fronting the frost and the sun,</l>
+                    <l>That the dream of the world might endure,</l>
+                    <l>And the goodly will be done.</l>
+                </lg>
+                </p>
+                 <p>
+                    <lg>
+                        <l>Did the hand of the builder guess,</l>
+                        <l>As he laid me stone by stone</l>
+                        <l>A heart in the granite lurked,</l>
+                        <l>Patient and fond as his own?</l>
+                    </lg>
+                </p>
+                <p>
+                    <lg>
+                        <l>Lovers have leaned on me</l>
+                        <l>Under the summer moon,</l>
+                        <l>And mowers laughed in my shade</l>
+                        <l>In the harvest heat at noon.</l>
+                    </lg>
+                </p>
+                <p>
+                    <lg>
+                        <l>Children roving the fields</l>
+                        <l>With early flowers in spring,</l>
+                        <l>Old men turning to look,</l>
+                        <l>When they heard a bluebird sing.</l>
+                    </lg>
+                </p>
+                <p>
+                    <lg>
+                        <l>Have seen me a thousand times</l>
+                        <l>Standing here in the sun,</l>
+                        <l>Yet never a moment dreamed</l>
+                        <l>Whose likeness they gazed upon.</l>
+                    </lg>
+                </p>
+                <p>
+                    <lg>
+                        <l>Ah, when will ye understand,</l>
+                        <l>Mortals who strive and plod––</l>
+                        <l>Who rests on this old gray wall</l>
+                        <l>Lays a hand on the shoulder of God!</l>
+                    </lg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+
+
